@@ -1,0 +1,3 @@
+- [TP Integrador: Instrucciones para Asistente de Marketing](project_tp_integrador.md) — Trabajo grupal sobre crear instrucciones permanentes para un asistente de IA especializado en marketing
+- [Preferencia: Autonomía en GitHub](feedback_github_autonomy.md) — El usuario elige qué subir a GitHub; no hacer push automático
+- [Referencia: Brief en CLAUDE.md](reference_claude_md.md) — Todas las instrucciones y requisitos están en CLAUDE.md
