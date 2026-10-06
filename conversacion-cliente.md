@@ -9,8 +9,8 @@ Preguntá por lo que ya hizo, no por lo que haría.
 La gente no puede explicar sus propias compras, pero sí puede contar lo que pasó. Si te acordás solo de esta línea, la conversación te va a salir bien igual.
 
 ### Con quién hablar
-- Alguien que compró hace poco. Cuanto más fresca la compra, menos reconstruida la memoria.
-- Alguien que compró una vez y no volvió. El más incómodo y el que más te sirve.
+- Alguien que compró hace poco. Cuanto más fresca la compra, menos reconstruida la memoria. -> Se interpreta como cliente minorista conforme
+- Alguien que compró una vez y no volvió. El más incómodo y el que más te sirve. -> Se interpreta como cliente minorista disconforme
 - Si tu marca no vende todavía: cualquiera que haya comprado en esa categoría en los últimos meses. No hace falta que sea cliente tuyo ni que sea formal.
 
 
@@ -20,11 +20,16 @@ Si la persona se entusiasma con la 2, quedate en la 2 quince minutos. No hace fa
 
 1. Contame de la última vez que compraste algo de esta categoría. ¿Dónde estabas, qué estabas haciendo?
 2. ¿Cuándo empezaste a pensar que necesitabas esto? ¿Qué pasó ese día en particular?
+    - Respuesta: No encontraba jeans para mi talle, y los que encontraba no me permitian cambiar de talle ni probar la prenda. Como ustedes si me permiten cambiar de talle en caso necesitarlo termine encontrando el talle que buscaba.
 3. ¿Cómo lo venías resolviendo antes? ¿Qué dejó de funcionar?
+    - Compraba el jean un talle adicional y como no tenia forma de cambiarlo lo mandaba a la modista para solucionar las medidas y que me quede perfecto. Pero supone un costo adicional que no siempre podia permitirse
 4. ¿Con qué otras opciones lo comparaste? Incluí siempre “no hacer nada”.
+    - Compre en otras tiendas que dan una atencion personalizada y permiten cambio por talle o modelos. Pero existe una diferencia considerable de precios.
 5. ¿Qué te hizo dudar? ¿Hubo algún momento en que casi lo dejás? La que más rinde y la que nadie hace.
+    - Como no tienen probador no me terminaba de animar a comprar ya que no conocia la tabla de talles. Y no tenia ganas de volver a av. avellaneda solamente para cambiar el jean por otro talle.
 6. ¿Alguien más opinó sobre la decisión? ¿Quién y qué dijo?
 7. La primera vez que lo usaste, ¿qué esperabas que pasara? ¿Qué pasó realmente?
+    - Que necesitaba un talle mas grande o que no dure ni un año por la calidad del jean. Termine encontrando el talle que buscaba y con una calidad que no disminuye con los lavados.
 8. Si mañana desapareciera, ¿con qué lo reemplazarías? ¿Qué extrañarías exactamente?
 
 
